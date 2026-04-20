@@ -34,3 +34,11 @@
 - Método exceso promedio de velocidad.
 - Método exceso real promedio de velocidad.
 - Método multas por ubicación.
+
+## [Sprint 1] - Ejercicio 05
+### Added
+- Gráfico de ranking de las 10 patentes más reincidentes.
+- Gráfico de torta de infracciones por hora.
+- Gráfico de barras de infracciones por mes.
+- Gráfico de líneas de excesos por hora 00:00.
+- Gráfico de líneas de excesos por fecha 1932-01-01.
