@@ -42,3 +42,12 @@
 - Gráfico de barras de infracciones por mes.
 - Gráfico de líneas de excesos por hora 00:00.
 - Gráfico de líneas de excesos por fecha 1932-01-01.
+
+## [Sprint 1] - Ejercicio 06
+### Added
+- Porcentaje de infracciones en fecha 1932-01-01.
+- Porcentaje de infracciones en hora 00:00.
+
+## [Sprint 1] - Ejercicio 07
+### Added
+- Conclusión sobre el dataset de multas.
