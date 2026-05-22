@@ -65,3 +65,9 @@
 - Separación de imágenes en grupos plates y completes.
 - Guardado del diccionario group_images en JSON.
 - Función para mostrar 8 imágenes aleatorias en tabla 2x4.
+
+## [Sprint 2] - Ejercicio 03
+### Added
+- Conversión a escala de grises de las imágenes originales.
+- Suavizado de imágenes en escala de grises.
+- Detección de bordes con Canny sobre imágenes suavizadas.
