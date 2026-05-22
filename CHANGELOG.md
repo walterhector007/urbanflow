@@ -58,3 +58,10 @@
 - Creación de la rama Sprint_2 desde Sprint_1.
 - Descarga y descompresión del dataset de imágenes.
 - Almacenamiento en urbanflow/data/raw/imgs.
+
+## [Sprint 2] - Ejercicio 02
+### Added
+- Listado de imágenes con nombre y tamaño en kb.
+- Separación de imágenes en grupos plates y completes.
+- Guardado del diccionario group_images en JSON.
+- Función para mostrar 8 imágenes aleatorias en tabla 2x4.
