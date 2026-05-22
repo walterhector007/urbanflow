@@ -78,3 +78,11 @@
 - Función de match entre patentes con umbral del 80%.
 - Relación de patentes extraídas con dataset del Sprint 1.
 - Dataset final guardado en urbanflow/data/processed.
+
+## [Sprint 2] - Ejercicio 05
+### Added
+- Cantidad de multas sin imágenes.
+- Cantidad de multas con imágenes.
+- Cantidad de imágenes sin match.
+- Cantidad de multas pendientes de pago.
+- Cantidad de multas pendientes de pago con imágenes.
