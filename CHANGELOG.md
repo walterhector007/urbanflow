@@ -71,3 +71,10 @@
 - Conversión a escala de grises de las imágenes originales.
 - Suavizado de imágenes en escala de grises.
 - Detección de bordes con Canny sobre imágenes suavizadas.
+
+## [Sprint 2] - Ejercicio 04
+### Added
+- Extracción de patentes con OCR usando easyocr.
+- Función de match entre patentes con umbral del 80%.
+- Relación de patentes extraídas con dataset del Sprint 1.
+- Dataset final guardado en urbanflow/data/processed.
