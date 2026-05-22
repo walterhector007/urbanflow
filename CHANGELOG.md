@@ -89,4 +89,4 @@
 
 ## [Sprint 2] - Ejercicio 06
 ### Added
-- Conclusión sobre imágenes y datos del Sprint 2.
+- Conclusión sobre las imágenes y los datos del Sprint 2.
