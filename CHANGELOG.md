@@ -51,3 +51,10 @@
 ## [Sprint 1] - Ejercicio 07
 ### Added
 - Conclusión sobre el dataset de multas.
+
+## [Sprint 2] - Ejercicio 01
+### Added
+- Clonación del repositorio del Sprint 1.
+- Creación de la rama Sprint_2 desde Sprint_1.
+- Descarga y descompresión del dataset de imágenes.
+- Almacenamiento en urbanflow/data/raw/imgs.
