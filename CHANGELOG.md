@@ -86,3 +86,7 @@
 - Cantidad de imágenes sin match.
 - Cantidad de multas pendientes de pago.
 - Cantidad de multas pendientes de pago con imágenes.
+
+## [Sprint 2] - Ejercicio 06
+### Added
+- Conclusión sobre imágenes y datos del Sprint 2.
