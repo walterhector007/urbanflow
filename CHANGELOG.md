@@ -90,3 +90,10 @@
 ## [Sprint 2] - Ejercicio 06
 ### Added
 - Conclusión sobre las imágenes y los datos del Sprint 2.
+
+## [Sprint 3] - Ejercicio 01
+### Added
+- Clonación del repositorio del Sprint 2.
+- Creación de la rama Sprint_3 desde Sprint_2.
+- Verificación de acceso a todos los datasets.
+- Descarga del dataset raw faltante.
