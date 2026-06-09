@@ -97,3 +97,15 @@
 - Creación de la rama Sprint_3 desde Sprint_2.
 - Verificación de acceso a todos los datasets.
 - Descarga del dataset raw faltante.
+
+## [Sprint 3] - Ejercicio 02
+### Added
+- Inicialización de DVC.
+- Configuración del remote DVC en /content/remote_dvc.
+- Migración de imágenes a DVC.
+- Migración del dataset zip a DVC.
+- Migración del dataset processed a DVC.
+
+## [Sprint 3] - Ejercicio 03
+### Added
+- Modelo lógico de entidades: Vehiculo, Radar, Evidencia, Multa.
