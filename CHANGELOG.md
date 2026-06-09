@@ -109,3 +109,8 @@
 ## [Sprint 3] - Ejercicio 03
 ### Added
 - Modelo lógico de entidades: Vehiculo, Radar, Evidencia, Multa.
+
+## [Sprint 3] - Ejercicio 04
+### Added
+- Función procesar_fila_csv para mapear filas CSV a objetos.
+- Validación de la función con datos de ejemplo.
