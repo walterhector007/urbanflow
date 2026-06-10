@@ -114,3 +114,40 @@
 ### Added
 - Función procesar_fila_csv para mapear filas CSV a objetos.
 - Validación de la función con datos de ejemplo.
+<<<<<<< HEAD
+=======
+
+## [Sprint 3] - Ejercicio 05
+### Added
+- Modelo relacional con SQLAlchemy: VehiculoDB, RadarDB, EvidenciaDB, MultaDB.
+- Relaciones entre tablas con foreign keys.
+- Método __repr__ en cada modelo.
+
+## [Sprint 3] - Ejercicio 06
+### Added
+- Creación de base de datos transito con SQLAlchemy.
+- Migración de datos desde speeding_fines_image.csv.
+- Validación de registros: 1713 multas, 66 vehículos, 4 radares, 28 evidencias.
+
+## [Sprint 3] - Ejercicio 07
+### Added
+- Consulta top 10 patentes con más multas.
+- Consulta multas sin evidencia.
+- Consulta radares más activos.
+- Consulta top 10 patentes reincidentes en período dado.
+
+## [Sprint 3] - Ejercicio 08
+### Added
+- Creación de base de datos vectorial patente_vectorial con ChromaDB.
+- Vectorización de imágenes con modelo OpenClip ViT-B-32.
+- 106 vectores almacenados en la base de datos vectorial.
+
+## [Sprint 3] - Ejercicio 09
+### Added
+- Función buscar_patente_imagen para búsqueda por similitud.
+- Validación con 3 imágenes de prueba.
+
+## [Sprint 3] - Ejercicio 10
+### Added
+- Conclusión del Sprint 3.
+>>>>>>> bccdfb9 (Ejercicio 02: migracion de binarios a DVC)
