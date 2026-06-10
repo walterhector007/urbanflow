@@ -114,8 +114,6 @@
 ### Added
 - Función procesar_fila_csv para mapear filas CSV a objetos.
 - Validación de la función con datos de ejemplo.
-<<<<<<< HEAD
-=======
 
 ## [Sprint 3] - Ejercicio 05
 ### Added
@@ -150,4 +148,3 @@
 ## [Sprint 3] - Ejercicio 10
 ### Added
 - Conclusión del Sprint 3.
->>>>>>> bccdfb9 (Ejercicio 02: migracion de binarios a DVC)
