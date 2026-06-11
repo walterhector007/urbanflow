@@ -41,3 +41,24 @@ una imagen de consulta.
 La integración entre la base de datos relacional y la vectorial
 representa un avance significativo en la capacidad del sistema para
 validar y procesar evidencias visuales de infracciones de velocidad.
+
+## Conclusión Sprint 3
+
+En este sprint se profesionalizó la solución incorporando persistencia
+en base de datos relacional mediante SQLAlchemy y control de versiones
+de datos con DVC.
+
+Se migró exitosamente el dataset procesado del Sprint 1 a una base de
+datos SQLite con 4 tablas relacionadas: 1713 multas, 66 vehículos,
+4 radares y 28 evidencias. Las consultas SQL permitieron obtener
+información relevante como las patentes más reincidentes, los radares
+más activos y el porcentaje de multas con evidencia visual.
+
+Se implementó además una base de datos vectorial con ChromaDB y OpenClip
+que permite búsquedas por similitud de imágenes. Se vectorizaron 106
+imágenes de patentes, permitiendo identificar vehículos a partir de
+una imagen de consulta.
+
+La integración entre la base de datos relacional y la vectorial
+representa un avance significativo en la capacidad del sistema para
+validar y procesar evidencias visuales de infracciones de velocidad.
